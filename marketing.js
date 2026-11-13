@@ -1,0 +1,1 @@
+'use strict';document.querySelectorAll('[data-start]').forEach(link=>link.addEventListener('click',()=>{const tab=document.querySelector('[data-feature="'+link.dataset.start+'"]');if(tab)tab.click()}));
