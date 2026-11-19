@@ -1,0 +1,25 @@
+{
+    "name":  "JACK22 Studio",
+    "short_name":  "JACK22",
+    "description":  "Ton studio de musique dans le navigateur.",
+    "lang":  "fr",
+    "start_url":  "index.html",
+    "scope":  "./",
+    "display":  "standalone",
+    "background_color":  "#171b1e",
+    "theme_color":  "#171b1e",
+    "icons":  [
+                  {
+                      "purpose":  "any",
+                      "type":  "image/png",
+                      "sizes":  "192x192",
+                      "src":  "icon-192.png"
+                  },
+                  {
+                      "purpose":  "any",
+                      "type":  "image/png",
+                      "sizes":  "512x512",
+                      "src":  "icon-512.png"
+                  }
+              ]
+}
